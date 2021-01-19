@@ -1,5 +1,5 @@
 # Movie_Database
-COMP 2406 project movie database
+COMP 2406 project
 Movie Database Project Final Report Eric Tran & Adrian Cheung
 
 PURPOSE: For our COMP2406 project we decided on doing the movie database. The purpose of our website was to replicate something reminiscent of IMDB where users would have accounts where they would be able to search, view, and review movies of their choice.
